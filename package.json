@@ -1,0 +1,26 @@
+{
+  "name": "alexa-lan-gateway",
+  "version": "0.0.1",
+  "description": "A NodeJS LAN Gateway for Alexa skills",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karlbunch/alexa-lan-gateway.git"
+  },
+  "keywords": [
+    "alexa"
+  ],
+  "author": "Karl Bunch <karlbunch@karlbunch.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karlbunch/alexa-lan-gateway/issues"
+  },
+  "homepage": "https://github.com/karlbunch/alexa-lan-gateway#readme",
+  "dependencies": {
+    "alexa-app": "^2.3.4",
+    "alexa-app-server": "^2.2.4"
+  }
+}
